@@ -43,3 +43,5 @@ git branch [branch_name]
 git checkout [branch_name]
 git switch [branch_name]
 
+- Merging branch to the main branch
+git merge [branch_name]
